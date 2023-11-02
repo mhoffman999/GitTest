@@ -11,7 +11,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
+        // Version Control allows you to create checkpoints for your app, such that you can sart at a checkpoint to test new featrures or revert to a previous state prior to revisions
+        
+        // The following lines of code are to see how adding/changing code updates in Version Control applications
+        
+        print("git")
+        
+        
     }
 
 

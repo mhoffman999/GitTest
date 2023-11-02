@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         // The following lines of code are to see how adding/changing code updates in Version Control applications
         
         print("git")
+        print("git2")
         
         
     }
